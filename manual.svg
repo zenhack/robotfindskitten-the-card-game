@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!-- vim: set ts=3 sw=3 et : -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="675.02917"
+   height="631.03101"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="manual-front.svg">
+  <style
+     type="text/css"
+     id="style3337" />
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="294.67175"
+     inkscape:cy="405.71198"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1124"
+     inkscape:window-height="1132"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="-101.42857,315"
+       orientation="0,1"
+       id="guide3474"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="225,524.28571"
+       orientation="1,0"
+       id="guide3476"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="450,567.14286"
+       orientation="1,0"
+       id="guide3478"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-40.41272,-29.568065)">
+    <use
+       xlink:href="../cards/../blank-card.svg#layer1"
+       height="100%"
+       width="100%"
+       id="use3465"
+       ry="9"
+       y="571.44519"
+       x="491.85001"
+       transform="matrix(3.0001297,0,0,2.003273,-1435.2185,-1115.1764)" />
+    <g
+       id="g3545"
+       transform="translate(-216.17264,-142.43151)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="274.5412"
+         y="205.53304"
+         id="text9068"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan9070"
+           x="274.5412"
+           y="205.53304">robotfindskitten</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="385.53613"
+         y="214.80721"
+         id="text9072"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan9074"
+           x="385.53613"
+           y="214.80721">The Card Game</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3351"
+       width="668.72101"
+       height="625.28442"
+       x="44.453331"
+       y="33.294338" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="73.747757"
+       y="317.14719"
+       id="text3353"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3355"
+         x="73.747757"
+         y="317.14719">Instruction Manual</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3391"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(40.41272,29.568065)"><flowRegion
+         id="flowRegion3393"><rect
+           id="rect3395"
+           width="225"
+           height="21.213203"
+           x="225"
+           y="22.919172"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3397">Introduction</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3399"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.95773406,0,0,1,60.024081,30.578218)"><flowRegion
+         id="flowRegion3401"><rect
+           id="rect3403"
+           width="225"
+           height="252.70573"
+           x="225"
+           y="63.325275"
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara3417"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono Bold'"
+   id="flowSpan3407">  robotfindskitten: the card game</flowSpan> is based on the classic Zen simulation <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono Bold'"
+   id="flowSpan3415">robotfindskitten</flowSpan>, by Leonard Richardson. It is intended to be a faithful adaptation of the orignal.</flowPara><flowPara
+         id="flowPara3539" /><flowPara
+         id="flowPara3541">  In addition to this deck of cards, you will also need a six-sided die.</flowPara><flowPara
+         id="flowPara3431" /><flowPara
+         id="flowPara3425" /><flowPara
+         id="flowPara3427" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3439"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Nimbus Mono;font-style:normal;font-weight:normal;font-size:14px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Nimbus Mono;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3441"><rect
+           id="rect3443"
+           width="222.7616"
+           height="21.213203"
+           x="450"
+           y="38.071461" /></flowRegion><flowPara
+         id="flowPara3445"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="580.84436"
+       y="64.609062"
+       id="text3447"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3449"
+         x="580.84436"
+         y="64.609062">Setup</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3451"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.93057619,0,0,1,80.744806,30.578217)"><flowRegion
+         id="flowRegion3453"><rect
+           id="rect3455"
+           width="224.78188"
+           height="252.14285"
+           x="450"
+           y="63.888145" /></flowRegion><flowPara
+         id="flowPara3459">  1. <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono Bold'"
+   id="flowSpan3509">robotfindskitten: the card game</flowSpan> supports 1-4 players. For each player set aside one robot and the kitten of the coresponding suit.</flowPara><flowPara
+         id="flowPara3485" /><flowPara
+         id="flowPara3489">  2. Select roughly twenty non-robot non-kitten cards from the remainder of the deck, add the kittens to them, and shuffle.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3491"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.95834572,0,0,1,47.694175,55.832032)"><flowRegion
+         id="flowRegion3493"><rect
+           id="rect3495"
+           width="219.94923"
+           height="309.94925"
+           x="5.0507627"
+           y="316.03101"
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara3497" /><flowPara
+         id="flowPara3501">   3. Arrange the selected cards, and the players' kittens, face down, at random, on a grid of approximatelly 4 feet by 6 feet. Make sure no two cards overlap.</flowPara><flowPara
+         id="flowPara3505" /><flowPara
+         id="flowPara3507">   4. Place the players' robots, face up, at random, amongst the rest of the cards. Again, the cards should not overlap.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="357.60062"
+       y="374.72586"
+       id="text3511"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3513"
+         x="357.60062"
+         y="374.72586">Play</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3515"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.9398327,0,0,1,65.06204,33.568065)"><flowRegion
+         id="flowRegion3517"><rect
+           id="rect3519"
+           width="225"
+           height="269.71072"
+           x="225"
+           y="356.2695" /></flowRegion><flowPara
+         id="flowPara3525">  1. Assign a robot to each player. Somehow, decide who goes first. Turn order proceeds clockwise from the starting player.</flowPara><flowPara
+         id="flowPara3531" /><flowPara
+         id="flowPara3533">  2. On each player's turn, it rolls a six-sided die. the number that is rolled determines the number of actions the player may take this turn.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3543"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.9398327,0,0,1,76.579377,23.50715)"><flowRegion
+         id="flowRegion3545"><rect
+           id="rect3547"
+           width="220.74129"
+           height="257.5889"
+           x="450"
+           y="367.3812" /></flowRegion><flowPara
+         id="flowPara3553">  3. A player may use an action etither to move its robot one space on the grid, or to inspect a face down card to which it is adjacent. When inspecting a face down card, the player should not reveal that card to others.</flowPara><flowPara
+         id="flowPara3559" /><flowPara
+         id="flowPara3561">  4. If a player inspects a card which is the kitten with the same suit as its robot, that player wins.</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text3563"
+       y="371.69543"
+       x="84.859459"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="371.69543"
+         x="84.859459"
+         id="tspan3565"
+         sodipodi:role="line">Setup (continued)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3567"
+       y="371.6954"
+       x="539.4281"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="371.6954"
+         x="539.4281"
+         id="tspan3569"
+         sodipodi:role="line">Play (continued)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Nimbus Mono';-inkscape-font-specification:'Nimbus Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="116.17416"
+       y="556.55334"
+       id="text3571"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3573"
+         x="116.17416"
+         y="556.55334" /></text>
+  </g>
+</svg>

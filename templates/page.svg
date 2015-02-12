@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- vim: set ts=3 sw=3 et : -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="page-template.svg">
+  <style type="text/css">
+     <![CDATA[
+     ]]>
+  </style>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="365.88889"
+     inkscape:cy="903.07234"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1278"
+     inkscape:window-height="780"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+    inkscape:label="Layer 1"
+    inkscape:groupmode="layer"
+    id="layer1">
+    <g>
+       <use
+          xlink:href="../cards/{{ cards[0] }}.svg#layer1"
+          x="-254.44339"
+          y="39.85173"
+          ry="9"
+          transform="matrix(0,-1,1,0,0,0)" />
+       <use
+          xlink:href="../cards/{{ cards[1] }}.svg#layer1"
+          ry="9"
+          y="401.42279"
+          x="-254.30237"
+          transform="matrix(0,-1,1,0,0,0)" />
+    </g>
+    <g>
+       <use
+          xlink:href="../cards/{{ cards[2] }}.svg#layer1"
+          x="5.465in"
+          y="255.44519"
+          ry="9"
+          />
+       <use
+          xlink:href="../cards/{{ cards[3] }}.svg#layer1"
+          x="2.954in"
+          y="255.44519"
+          ry="9"
+          />
+       <use
+          xlink:href="../cards/{{ cards[4] }}.svg#layer1"
+          ry="9"
+          y="255.44522"
+          x="0.443in"
+          />
+    </g>
+    <g>
+       <use
+          xlink:href="../cards/{{ cards[5] }}.svg#layer1"
+          x="5.465in"
+          y="571.44519"
+          ry="9" />
+       <use
+          xlink:href="../cards/{{ cards[6] }}.svg#layer1"
+          ry="9"
+          y="571.44519"
+          x="2.954in"
+          />
+       <use
+          xlink:href="../cards/{{ cards[7] }}.svg#layer1"
+          x="0.443in"
+          y="571.44525"
+          ry="9" />
+    </g>
+  </g>
+</svg>
